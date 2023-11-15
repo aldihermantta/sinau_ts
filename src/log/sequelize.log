@@ -1,0 +1,151 @@
+Executing (default): SELECT "id", "username", "nama", "email", "createdAt", "updatedAt" FROM "Users" AS "User";
+Executing (default): SELECT "id", "username", "nama", "email", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ddd';
+Executing (default): SELECT "id", "username", "nama", "email", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ddd';
+Executing (default): SELECT "id", "username", "nama", "email", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ddd';
+Executing (default): SELECT "id", "username", "nama", "email", "createdAt", "updatedAt" FROM "Users" AS "User";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): INSERT INTO "Users" ("id","createdAt","updatedAt") VALUES (DEFAULT,$1,$2) RETURNING "id","username","nama","email","createdAt","updatedAt";
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'hehe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'aldaye@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'aldaye@example.com' LIMIT 1;
+Executing (default): INSERT INTO "Users" ("id","username","email","password","createdAt","updatedAt") VALUES (DEFAULT,$1,$2,$3,$4,$5) RETURNING "id","username","nama","email","password","createdAt","updatedAt";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."password", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Roles" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."password", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Roles" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."password", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."password", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."password", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."password", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."password", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."password", "User"."id_role", "User"."createdAt", "User"."updatedAt", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama", "Role"."createdAt" AS "Role.createdAt", "Role"."updatedAt" AS "Role.updatedAt" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "Role"."id" AS "Role.id", "Role"."nama" AS "Role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "Role" ON "User"."id_role" = "Role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'aldawe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'aldawe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'aldawe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'aldawe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'aldawe@example.com' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."email" = 'aldawe@example.com' LIMIT 1;
+Executing (default): INSERT INTO "Users" ("id","username","email","password","id_role","createdAt","updatedAt") VALUES (DEFAULT,$1,$2,$3,$4,$5,$6) RETURNING "id","username","nama","email","password","id_role","createdAt","updatedAt";
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = '1' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'ok' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "id_role", "createdAt", "updatedAt" FROM "Users" AS "User" WHERE "User"."username" = 'mas' LIMIT 1;
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT "id", "username", "nama", "email", "id_role" FROM "Users" AS "User";
+Executing (default): SELECT "User"."id", "User"."username", "User"."nama", "User"."email", "User"."id_role", "role"."id" AS "role.id", "role"."nama" AS "role.nama" FROM "Users" AS "User" LEFT OUTER JOIN "Role" AS "role" ON "User"."id_role" = "role"."id";
+Executing (default): SELECT * FROM projects
+Executing (default): SELECT * FROM projects
+Executing (default): SELECT * FROM Users
+Executing (default): SELECT * FROM Users WHERE username = :username1
+Executing (default): SELECT * FROM Users WHERE username = 'mas'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'mas'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'mas'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'Jeruk'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'Jeruk'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'Jeruk'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'Jeruk'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'Jeruk'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'Jeruk'
+Executing (default): SELECT * FROM tr_pengguna WHERE username = 'Jeruk' limit 1
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "tr_pengguna" AS "User" WHERE "User"."username" = 'Jeruk' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "tr_pengguna as tr_pengguna" AS "User" WHERE "User"."username" = 'Jeruk' LIMIT 1;
+Executing (default): SELECT "id", "username", "nama", "email", "password", "createdAt", "updatedAt" FROM "tr_pengguna" AS "User" WHERE "User"."username" = 'Jeruk' LIMIT 1;
+Executing (default): SELECT "username" FROM "tr_pengguna" AS "User" WHERE "User"."username" = 'Jeruk' LIMIT 1;
+Executing (default): SELECT "username", "password" FROM "tr_pengguna" AS "User" WHERE "User"."username" = 'Jeruk' LIMIT 1;
+Executing (default): SELECT "username", "password" FROM "tr_pengguna" AS "User" WHERE "User"."username" = 'Jeruk' LIMIT 1;
+Executing (default): SELECT "username", "password" FROM "tr_pengguna" AS "User" WHERE "User"."username" = 'Jeruk' LIMIT 1;
+Executing (default): SELECT "username", "password" FROM "tr_pengguna" AS "User" WHERE "User"."username" = 'Jeruk' LIMIT 1;
